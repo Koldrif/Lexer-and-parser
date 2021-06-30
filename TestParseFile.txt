@@ -1,0 +1,4 @@
+a = 109; b = a; a = a * b; b = b / a ; c = a - 100; if (c < a) { if (a > b){ a = 100; b = 400*(a-b*(300 - b - c * (a - b)));}} 
+
+listOfNumbers = LinkedList(112, 564, -100, 22342); a = listOfNumbers.contains(0); c = listOfNumbers.contains(564); d = listOfNumbers.get(2); listOfNumbers.push(100); listOfNumbers.remove(123);
+
